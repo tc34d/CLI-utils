@@ -1,0 +1,1 @@
+lynx gopher://gopher.floodgap.com
