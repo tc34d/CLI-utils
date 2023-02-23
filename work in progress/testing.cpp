@@ -2,7 +2,7 @@
 #include <string>
 int main(){
 using namespace std;
-char name;
+char name[];
 cin>>name;
 cout<<name;
 
