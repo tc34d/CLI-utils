@@ -21,3 +21,4 @@ elif $ '=' "Debian GNU/Linux"; then
     sudo apt-get install lynx
 
 fi
+lynx gopher://gopher.floodgap.com
