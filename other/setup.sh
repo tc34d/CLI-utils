@@ -36,4 +36,4 @@ echo "step finnished"
 echo -e
 echo "type in any other packages that you want to install"
 read packages
-sudo pacman -S $packages
+yes | sudo pacman -S $packages
