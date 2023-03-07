@@ -5,8 +5,10 @@ just for somehting to note for now most of the files will have to be run inside 
 
 these will be standalone executables
 
-# before use
-for the c++ programs you will have to compile it yourself until i learn how to make an installer
++ **nmap abstraction**
++ **flask webserver maker**
++ **password generator**
++ **and more!!**
 
-# use cases
-the main use case in this are for usage in automation scripts or in maintaning a computer
+## before use
+for the c++ programs you will have to compile it yourself until i learn how to make an installer
