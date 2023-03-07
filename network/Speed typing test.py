@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
          # gather all the information returned from functions
          time = round(timeElapsed(stime, etime), 2)
-         speed = typingSpeed(iprompt, stime, etime)
+         speed = typingSpeed(iprompt, stime, etime) * 60
          errors = typingErrors(prompt)
 
          # printing all the required data
@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
         # gather all the information returned from functions
         time = round(timeElapsed(stime, etime), 2)
-        speed = typingSpeed(iprompt, stime, etime)
+        speed = typingSpeed(iprompt, stime, etime) * 60
         errors = typingErrors(prompt)
 
         # printing all the required data
@@ -106,7 +106,7 @@ if __name__ == '__main__':
 
     # gather all the information returned from functions
     time = round(timeElapsed(stime, etime), 2)
-    speed = typingSpeed(iprompt, stime, etime)
+    speed = typingSpeed(iprompt, stime, etime) * 60
     errors = typingErrors(prompt)
 
     # printing all the required data
