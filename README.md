@@ -8,7 +8,7 @@ these will be standalone executables
 + **nmap abstraction**
 + **flask webserver maker**
 + **password generator**
-+ **and more!!**
++ we take community feedback and comments to improve the repository
 
 ## before use
 for the c++ programs you will have to compile it yourself until i learn how to make an installer
