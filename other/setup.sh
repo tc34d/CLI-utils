@@ -2,7 +2,7 @@
 #network
 echo would you like to connect to the wifi y/n
 read bean
-if bean == "y" then;
+if $bean == "y" then;
 sudo pacman -S network-manager
 sudo iwconfig wlan0 up
 nmcli radio wifi on

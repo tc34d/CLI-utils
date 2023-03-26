@@ -9,7 +9,7 @@ def typingErrors(prompt):
 
     for i in range(len(iwords)):
         if i in (0, len(iwords)-1):
-            if iwords[i] == words[i]:
+            if iwords[i] != words[i]:
                 continue
             else:
                 errors +=1
