@@ -104,13 +104,6 @@ while game_active:
 
 total_time = (pygame.time.get_ticks() - start_time) // 1000
 
-
-game_over_text = quit_font.render("Game Over", True, WHITE)
-game_over_rect = game_over_text.get_rect(center=(width // 2, height // 2))
-window.blit(game_over_text, game_over_rect)
-pygame.display.update()
-
-
 while game_active:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
