@@ -1,3 +1,6 @@
+# this project is in haitus
+this project is no longer being worked on by the creator, i might come back
+
 # CLI-utils
 just some CLI utils that i will be creating in python and shell scrips i might expand to more languages later
 
